@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ajay
+- 👀 I’m interested in tech, coding, networking
+- 🌱 I’m currently learning computer science
+- 📫 How to reach me: @codingwith.aj on instagram or codingwith.aj@outlook.com
